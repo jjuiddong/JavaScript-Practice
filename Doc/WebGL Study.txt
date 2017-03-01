@@ -1,0 +1,12 @@
+
+
+WebGL Tutorial
+	http://learningwebgl.com/blog/?page_id=1217
+
+sample download
+	https://github.com/gpjt/webgl-lessons
+
+WebGL sdk
+	KhronosGroup
+	https://github.com/KhronosGroup/WebGL
+
