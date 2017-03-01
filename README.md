@@ -1,2 +1,3 @@
 # JavaScript-Practice
-javascript practice
+JavaScript and WebGL Practice
+
